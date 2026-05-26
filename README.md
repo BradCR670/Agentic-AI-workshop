@@ -1,0 +1,1 @@
+Create a new python file called triage.py. This file reads from service_calls.csv and organizes each claims severity into 2 categories: High Priority or Standard Priotiy. If the claim is values at $500 or more and the warranty is valid, it is marked as High priority. Otherwise, it is standard priority.
